@@ -1,0 +1,10 @@
+mlflow==2.22.0
+transformers==4.51.3
+torch
+datasets==3.5.0
+scikit-learn
+pandas
+matplotlib
+seaborn
+numpy
+accelerate
