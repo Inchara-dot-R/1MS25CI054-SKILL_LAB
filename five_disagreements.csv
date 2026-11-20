@@ -1,0 +1,6 @@
+text,reference,model_a_prediction,model_b_prediction,comment
+the film tunes into a grief that could lead a man across centuries . ,POSITIVE,NEGATIVE,POSITIVE,Models disagree; compare both predictions with the reference label.
+true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable . ,POSITIVE,NEGATIVE,POSITIVE,Models disagree; compare both predictions with the reference label.
+i 'll bet the video game is a lot more fun than the film . ,NEGATIVE,POSITIVE,NEGATIVE,Models disagree; compare both predictions with the reference label.
+"the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes . ",NEGATIVE,POSITIVE,NEGATIVE,Models disagree; compare both predictions with the reference label.
+"mcconaughey 's fun to watch , the dragons are okay , not much fire in the script . ",POSITIVE,POSITIVE,NEGATIVE,Models disagree; compare both predictions with the reference label.
