@@ -1,0 +1,11 @@
+text,prediction,score
+I absolutely loved this product; it works perfectly.,POSITIVE,0.9989169836044312
+This is the worst experience I have ever had.,NEGATIVE,0.9995007514953613
+The food was delicious and the service was excellent.,POSITIVE,0.9988998174667358
+I am disappointed because the delivery arrived late.,NEGATIVE,0.9995019435882568
+The movie was boring and far too long.,NEGATIVE,0.9995020627975464
+"What a wonderful day, everything went smoothly.",POSITIVE,0.9988760352134705
+The app keeps crashing and I hate using it.,NEGATIVE,0.9995081424713135
+The staff were friendly and made us feel welcome.,POSITIVE,0.9988831877708435
+This purchase was a complete waste of money.,NEGATIVE,0.9994999170303345
+I am very happy with the quality and price.,POSITIVE,0.9989312291145325
